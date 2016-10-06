@@ -10,4 +10,4 @@ El ejecutable del programa está en la carpeta Ejecutable.
 
 El entorno gráfico tiene el siguiente aspecto:
 
-![](capturas/programa.png)
+![](Capturas/programa.png)
