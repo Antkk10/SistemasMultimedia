@@ -6,8 +6,6 @@ Con este programa se puede abrir imágenes y realizar una serie de operaciones s
 
 Tiene implementado la captura de cámara pero en ordenadores Mac no funciona, en ordenadores Windows o Linux si (hace falta descargar la librería correspondiente de java para que se pueda ejecutar).
 
-El ejecutable del programa está en la carpeta Ejecutable.
-
 El entorno gráfico tiene el siguiente aspecto:
 
 ![](Capturas/programa.png)
